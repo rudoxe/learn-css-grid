@@ -1,0 +1,33 @@
+.container {
+    background-color: rgb(85, 187, 18);
+    width: 1000px;
+    height: 1000px;
+    display: grid;
+    row-gap: 50px;
+    column-gap: 100px;
+
+    grid-template-columns: 200px 200px ;
+    grid-template-rows: 300px 300px;
+    background: palegreen;
+
+}
+
+
+.item {
+}
+
+.item-1 {
+ background-color: red; 
+}
+
+.item-2 {
+    background-color: orange;
+}
+
+    .item-3 {
+   background-color: orchid;
+}
+
+   .item-4 {
+    background-color: rgb(218, 20, 86); 
+   }
